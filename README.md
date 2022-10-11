@@ -22,6 +22,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 * Understand and use collection types such as Swift arrays.
 * Test and debug your app with the Xcode console.
 * Learn about randomisation and how to generate random numbers in Swift.
+* Auto-Layout, which allows the app to be responsive, regardless of the screen size it is being rendered on.
 
 
 
